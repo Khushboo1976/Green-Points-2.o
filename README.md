@@ -8,25 +8,33 @@ This project blends modern UI/UX, gamified rewards, and real-world environmental
 
 🎨 UI/UX Showcase
 
-⚠️ Replace the image URLs below with your GitHub-hosted links once you upload the screenshots.
-I’ve used placeholders (/images/...) now.
+## 🔐 Login & Onboarding
+![Login](./Screenshot_15-11-2025_16117_localhost.jpeg)
 
-🔐 Login & Onboarding
-<p align="center"> <img src="/images/login.jpeg" width="85%" /> </p>
-🏡 Home Dashboard
-<p align="center"> <img src="/images/home.jpeg" width="85%" /> </p>
-💚 Share Eco-Action
-<p align="center"> <img src="/images/share-eco-action.jpeg" width="85%" /> </p>
-🧑‍🤝‍🧑 Community Feed
-<p align="center"> <img src="/images/community.jpeg" width="85%" /> </p>
-🏆 Leaderboard
-<p align="center"> <img src="/images/leaderboard.jpeg" width="85%" /> </p>
-🎁 Rewards Marketplace
-<p align="center"> <img src="/images/rewards.jpeg" width="85%" /> </p>
-👤 Profile & Stats
-<p align="center"> <img src="/images/profile.jpeg" width="85%" /> </p>
-🌍 Landing Page (Website)
-<p align="center"> <img src=""C:\Users\HP\Downloads\Screenshot_15-11-2025_16117_localhost.jpeg"" width="85%" /> </p>
+## 🏡 Home Dashboard
+![Home](./Screenshot_15-11-2025_16152_localhost.jpeg)
+
+## 💚 Share Eco-Action
+![Share Eco Action](./Screenshot_15-11-2025_16210_localhost.jpeg)
+
+## 👤 Profile Page
+![Profile](./Screenshot_15-11-2025_16227_localhost.jpeg)
+
+## 🎁 Rewards Marketplace
+![Rewards](./Screenshot_15-11-2025_16245_localhost.jpeg)
+
+## 🏆 Leaderboard
+![Leaderboard](./Screenshot_15-11-2025_16251_localhost.jpeg)
+
+## 💬 Community Feed
+![Community](./Screenshot_15-11-2025_16313_localhost.jpeg)
+
+## 🛠️ Share Action Page (Form)
+![Share Form](./Screenshot_15-11-2025_1634_localhost.jpeg)
+
+## 📊 Dashboard / Progress
+![Stats Dashboard](./Screenshot_15-11-2025_16418_localhost.jpeg)
+
 ✨ Features
 
 📸 Upload eco-actions with image + description
