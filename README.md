@@ -26,7 +26,7 @@ I’ve used placeholders (/images/...) now.
 👤 Profile & Stats
 <p align="center"> <img src="/images/profile.jpeg" width="85%" /> </p>
 🌍 Landing Page (Website)
-<p align="center"> <img src="/images/landing-page.jpeg" width="85%" /> </p>
+<p align="center"> <img src=""C:\Users\HP\Downloads\Screenshot_15-11-2025_16117_localhost.jpeg"" width="85%" /> </p>
 ✨ Features
 
 📸 Upload eco-actions with image + description
