@@ -21,16 +21,14 @@ This project blends modern UI/UX, gamified rewards, and real-world environmental
 ![Profile](./Screenshot_15-11-2025_16227_localhost.jpeg)
 
 ## 🎁 Rewards Marketplace
-![Rewards](./Screenshot_15-11-2025_16245_localhost.jpeg)
+![Rewards](./Screenshot_15-11-2025_1634_localhost.jpeg)
+
 
 ## 🏆 Leaderboard
 ![Leaderboard](./Screenshot_15-11-2025_16251_localhost.jpeg)
 
 ## 💬 Community Feed
 ![Community](./Screenshot_15-11-2025_16313_localhost.jpeg)
-
-## 🛠️ Share Action Page (Form)
-![Share Form](./Screenshot_15-11-2025_1634_localhost.jpeg)
 
 ## 📊 Dashboard / Progress
 ![Stats Dashboard](./Screenshot_15-11-2025_16418_localhost.jpeg)
