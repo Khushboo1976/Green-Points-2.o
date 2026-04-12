@@ -1,6 +1,6 @@
 🌱 GreenPoints
 Eco-Reward Platform for Sustainable Community Action
-<p align="center"> <img src="https://img.icons8.com/color/96/environmental-planning.png" width="120" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Category-Environment-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/UI%2FUX-Clean%20%26%20Modern-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Project-Mini%20Project-purple?style=for-the-badge" /> </p>
+<p align="center">  <p align="center"> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Category-Environment-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/UI%2FUX-Clean%20%26%20Modern-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Project-Mini%20Project-purple?style=for-the-badge" /> </p>
 
 GreenPoints is a sustainability-focused reward platform where users earn points for performing eco-friendly actions. By sharing verified proof of activities—such as recycling, planting trees, water conservation, or community cleanups—users earn reward points and become part of a growing eco-community.
 
