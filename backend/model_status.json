@@ -1,8 +1,0 @@
-{
-  "status": "success",
-  "start_time": "2025-11-09T14:21:54.751278Z",
-  "end_time": "2025-11-09T14:22:44.744443Z",
-  "elapsed_seconds": 49.99316477775574,
-  "models_requested": [],
-  "models_loaded": {
-    "clip_model": 
