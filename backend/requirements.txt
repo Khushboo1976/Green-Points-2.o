@@ -1,0 +1,28 @@
+# Core ML + Hugging Face
+torch
+torchvision
+transformers
+sentence-transformers
+
+# Image processing
+Pillow
+
+# Backend framework (choose one depending on what you want)
+fastapi
+uvicorn[standard]
+python-multipart
+mysql-connector-python
+python-dotenv
+
+# Database
+# pymysql  # Removed - using SQLite instead
+
+# HTTP requests
+requests
+
+# Flask for API server
+flask
+flask-cors
+
+# Optional: For quick testing/debugging UI
+streamlit
